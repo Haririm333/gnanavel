@@ -2,6 +2,9 @@
 
 A cinematic, mobile-first, animated single-page birthday website built with **Vite + React + TypeScript + Tailwind CSS + Framer Motion + canvas-confetti + HTML5 Canvas**.
 
+🔗 **Live Production Website:** [https://gnanavel.vercel.app](https://gnanavel.vercel.app)  
+📦 **GitHub Repository:** [https://github.com/Haririm333/gnanavel](https://github.com/Haririm333/gnanavel)
+
 ---
 
 ## 🚀 Quick Start (How to Run)
